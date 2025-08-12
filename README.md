@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AuragDey
+# 👋 Hi, I’m @AuragDey
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning dsa,web dev etc
 - 📫 How to reach me - deyanurag2020@gmail.com
